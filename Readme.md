@@ -16,6 +16,6 @@ For the current version, the transciever works by taking inputs for transmitting
 
 # Features Implemented:
 
-CRC16 error correction on the application layer
-A fixed sync word for all the messages
-Uses message-acknowledgment pairs for automatic repeat request protocol
+CRC16 error correction on the application layer.
+A fixed sync word for all the messages.
+Uses message-acknowledgment pairs for automatic repeat request protocol.
